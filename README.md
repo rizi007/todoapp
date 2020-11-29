@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with  To Do app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## How to use app
+enter text bottom text field to enter to do
+You can sort bby priority with select box
+
 
 ## Available Scripts
 
